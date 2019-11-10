@@ -137,7 +137,7 @@ corrplot(cor(etfs), method = "ellipse")'''
 **Scatterplot**
 - A plot in which the x-axis is the value of one variable, and the y-axis the value of another.
 
-# Chapter 2. Data and Sampling Distributions
+# 2. Data and Sampling Distributions
 
 ### Random Sampling and Sample Bias
 
